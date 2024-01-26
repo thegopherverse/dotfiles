@@ -5,10 +5,10 @@ Com este conjunto de arquivos, mantenho todas ou a maioria das configurações q
 
 Sinta-se à vontade para abrir uma issue e sugerir melhorias, dar sugestões ou mesmo tirar dúvidas.
 
-Observação: Os passos descritos foram aplicados em um Mac M3; algumas configurações e procedimentos 
-podem variar de acordo com o processador ou sistema utilizado.
-
 ![Nvim](./assets/nvim.png)
+
+*Observação: Os passos descritos foram aplicados em um Mac M3; algumas configurações e procedimentos 
+podem variar de acordo com o processador ou sistema utilizado.*
 
 ## ⚙️ Configuração
 
