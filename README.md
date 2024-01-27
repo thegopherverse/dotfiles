@@ -183,3 +183,10 @@ brew install --cask font-hack-nerd-font
 Em seguida altere a fonte atual do iTerm para a nova fonte.
 
 ![Keyboard](./assets/keyboard-input.png)
+
+### Outras Ferramentas
+
+```shell
+brew install --cask obsidian
+```
+
