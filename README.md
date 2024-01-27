@@ -158,19 +158,18 @@ Para deixar tudo ajustado para utilizar o `Go`, execute esses dois comandos no `
 
 ### Keyboard
 
-Como o teclado do Mac e Portugues, mas uso um teclado externo no padrao Americano
-eu tenho de trocar o `input` do sistema quando troco de um para outro, e por padrao,
-o atalho para trocar de idioma eh o `Ctrl+Space`. Como sabemos bem, esse eh um dos atalhos
-que mais utilizamos em um IDE. Por este motivo eu configuro o atalho de troca de `input`
-para `⌘+k` (k = keyboard) evidando um conflito.
+Como o teclado do Mac é em Português, mas utilizo um teclado externo no padrão Americano,
+preciso trocar o `input` do sistema ao alternar entre eles. Por padrão, o atalho para essa 
+troca de idioma é `Ctrl+Space`. Contudo, como é um dos atalhos mais utilizados em um IDE, 
+configuro a troca de input para ``⌘+k`` (k = keyboard), evitando assim conflitos.
 
-Para realizar essa configuracao de atalho acesse:
+Para realizar essa configuração de atalho, siga os passos abaixo:
 
 `System Settings > Keyboard > Keyboard Shortkuts > Input Sources`
 
 ![Fonts](./assets/fonts.png)
 
-### Install Hack Nerd Font
+### Hack Nerd Font
 
 Essas são umas das fontes mais populares e na minha opinião ajuda muito na leitura de código.
 Para instalar basta:
@@ -180,7 +179,7 @@ brew tap homebrew/cask-fonts
 brew install --cask font-hack-nerd-font
 ```
 
-Em seguida altere a fonte atual do iTerm para a nova fonte.
+Em seguida altere a fonte atual do `iTerm` para a nova fonte.
 
 ![Keyboard](./assets/keyboard-input.png)
 
