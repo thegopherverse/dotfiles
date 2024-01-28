@@ -118,6 +118,7 @@ brew install wget
 brew install yarn
 brew install fd
 brew install ripgrep
+brew install fzf
 ```
 
 - Nodejs provider para o Neovim
