@@ -63,7 +63,7 @@ Feche o terminal e abra novamente.
 Agora vamos instalar o iTerm2 e o Neovim com os comandos:
 
 ```shell
-cask install iterm2
+brew cask install iterm2
 brew install neovim
 ```
 
@@ -167,7 +167,7 @@ Para realizar essa configuração de atalho, siga os passos abaixo:
 
 `System Settings > Keyboard > Keyboard Shortkuts > Input Sources`
 
-![Fonts](./assets/fonts.png)
+![Keyboard](./assets/keyboard-input.png)
 
 ### Hack Nerd Font
 
@@ -181,7 +181,7 @@ brew install --cask font-hack-nerd-font
 
 Em seguida altere a fonte atual do `iTerm` para a nova fonte.
 
-![Keyboard](./assets/keyboard-input.png)
+![Fonts](./assets/fonts.png)
 
 ### Outras Ferramentas
 
