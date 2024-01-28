@@ -171,6 +171,14 @@ Em seguida altere a fonte atual do `iTerm` para a nova fonte.
 
 ![Fonts](./assets/fonts.png)
 
+### Tmux
+
+Instale `tmux` e configure de acordo com o arquivo `.tmux.conf` deste repositório.
+
+```shell
+brew install tmux
+```
+
 ### Keyboard
 
 Como o teclado do Mac é em Português, mas utilizo um teclado externo no padrão Americano,
